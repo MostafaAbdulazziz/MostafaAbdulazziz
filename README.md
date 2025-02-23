@@ -1,5 +1,3 @@
-Here's the updated profile for Mostafa Abdulaziz:
-
 ```markdown
 <!-- Profile Header -->
 <div align="center">
