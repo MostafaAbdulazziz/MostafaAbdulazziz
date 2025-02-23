@@ -31,9 +31,13 @@
 <h2>🏆 Problem Solving Journey</h2>
 <div align="center">
   <!-- Codeforces Stats -->
-  <a href="https://codeforces.com/profile/Mostafa_Abdulaziz" target="_blank">
+<a href="https://codeforces.com/profile/Mostafa_Abdulaziz" target="_blank">
     <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=Mostafa_Abdulaziz&theme=tokyonight&force_username=true&border_color=404040" alt="Codeforces Stats">
-  </a>
+</a>
+<!-- LeetCode Stats -->
+<a href="https://leetcode.com/u/zizoUWKmostafa66/" target="_blank">
+    <img width="400" src="https://leetcard.jacoblin.cool/zizoUWKmostafa66?ext=contest&theme=unicorn" alt="LeetCode Stats">
+</a>
 </div>
 
 <!-- Featured Projects -->
