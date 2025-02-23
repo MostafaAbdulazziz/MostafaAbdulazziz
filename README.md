@@ -69,7 +69,7 @@
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=MostafaAbdulazziz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph">
 
-<img src="https://raw.githubusercontent.com/MostafaAbdulazziz/MostafaAbdulazziz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MostafaAbdulazziz/output/snake.svg" alt="Snake animation" />
 
 <!-- Skills Section -->
 <h2>💻 Tech Stack</h2>
