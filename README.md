@@ -1,4 +1,3 @@
-```markdown
 <!-- Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&pause=1300&color=6F44E0&background=FFFFFF00&center=true&vCenter=true&width=600&height=50&lines=Mostafa+Abdulaziz;" alt="Typing SVG">
